@@ -1,0 +1,363 @@
+ POCO           :   2AP  0001  CE       
+                                                                                                                                     
+ IDENTIFICADOR  :   SB24T24NE46C44C                         BACIA          :   ARARIPE                                               
+ CAMPO          :                                           DATUM          :   ARATU                                                 
+ LATITUDE       :    -7.30123 (   -7  18  4.4)              LONGITUDE      :   -40.04394 (  -40   2 38.2)                            
+ MERID.CENTRAL  :   - 39                                    COORD.UTM FUNDO:    9192808.0S  384760.0W                                
+ DISTRITO       :   E&P-RN/CE                               ESTADO         :   CE                                                    
+ MUNICIPIO      :   ARARIPE                                 CODIGO POCO    :   012671                                                
+ QUADRICULA     :   87919238                                MESA ROTATIVA  :    869.0                                                
+ B.A.P          :     860.0                                 P.F.SONDADOR   :   1524.0                                                
+ PROF.MX.PERF.  :   1520.5                                  METROS PERF.   :   1524.0                                                
+ MAIOR PROF.    :   1524.0                                  INICIO         :   15/08/86                                              
+ TERMINO        :   26/09/86                                DATA LIB.SONDA :   27/09/86                                              
+ ULT.RECLASSIF. :   26/09/86                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   CONCLUIDO                               DATA APROV.LOC :   26/06/86                                              
+ CADASTRO       :   07178                                   SEDOC          :   0633                                                  
+ SONDA          :   EN-1                                    FORMACAO P.F.  :     EMBASA                                              
+ TERRA / MAR    :   TERRA                                   ACS RISCO      :   22                                                    
+ CONTR. RISCO   :   AZEVEDO & TRAVASSOS                     DOC.APROV.LOC. :   SUPEX-5186/1986                                       
+ NOME           :   ARARIPE.1                               CLASSIFICACAO  :   ESTRATIGRAFICO                                        
+ RECLASSIFICACAO:   SECO SEM INDICACAO DE H.C.                                                                                       
+ MC C.UTM BASE  :   - 39                                    COORD.UTM BASE :     9192808.0S    384760.0W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 39                                    COORD.UTM LOC. :     9192808.0S   384760.0W                              
+ DATUM LOCACAO  :   ARATU                                   EMPR. OPER.1/2 :    ENTERPA                                              
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+ HISTORICO DA RECLASSIFICACAO -      26/09/86   -  SECO SEM INDICACAO DE H.C.                            - RECLASSIFICACAO           
+-----------------                                                               
+ REVESTIMENTOS -         TIPO           PROFUNDIDADE        DIAMETRO       IND. DE RECUPERACAO                                       
+-----------------                                                               
+                    REV. SUPERFICIE     317.0  (  552.0)    13 3/8           DADO NAO REVISTO                                        
+                    REV. INTERMED.      722.0  (  147.0)     9 5/8           DADO NAO REVISTO                                        
+----------------------------------                                              
+  PERFIS: AQUISICAO/PROCESSAMENTO                                                                                                    
+----------------------------------                                              
+   COD  GR  TIPO           CIA   COR DESC    DATA           TOPO            BASE                                                     
+   ---  --  ----           ---   --- ----    ----           ----            ----                                                     
+   010  01  ISF/           SCHL  01    A  08/09/1986   390.0(   479.0)  493.0(   376.0)                                              
+   080  01  MSFL/                      A               390.0(   479.0)  493.0(   376.0)                                              
+   105  01  BHC/                       A               390.0(   479.0)  493.0(   376.0)                                              
+   165  01  GR                         A                 0.0(   869.0)  493.0(   376.0)                                              
+   010  01  ISF/           SCHL  02    B  23/09/1986   722.0(   147.0) 1518.5(  -649.5)                                              
+   080  01  MSFL/                      B               722.0(   147.0) 1512.0(  -643.0)                                              
+   105  01  BHC/                       B               722.0(   147.0) 1504.2(  -635.2)                                              
+   165  01  GR                         B                 0.0(   869.0) 1498.9(  -629.9)                                              
+   150  02  LDL/                       A               722.0(   147.0) 1519.7(  -650.7)                                              
+   169  02  NGS/                       A                 0.0(   869.0) 1510.7(  -641.7)                                              
+   194  02  CNL                        A               722.0(   147.0) 1514.1(  -645.1)                                              
+   055  03  EPT                        A               722.0(   147.0) 1516.0(  -647.0)                                              
+   241  04  SHDT                       A               722.0(   147.0) 1519.7(  -650.7)                                              
+   246  05  WST                        A                20.0(   849.0) 1500.1(  -631.1)  (  42 NIVEIS )                              
+   281  06  CST(GR)/                   A               723.0(   146.0) 1450.5(  -581.5)  ( 30 AMOSTRAS)                              
+   281  06  CST(GR)                    B               767.9(   101.1) 1485.0(  -616.0)  ( 23 AMOSTRAS)                              
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: DADOS DE REFERENCIA SISMICA                                                                                                
+--------------------------------------                                          
+ NUMERO DA     TIPO DE      DESCIDA DA       PROFUNDIDADE           TEMPO                                                            
+ CORRIDA       PERFIL       FERRAMENTA          MEDIDA              SISMICO                                                          
+   02           246A            A              20.0 (   849.0)        74.4                                                           
+                                               50.0 (   819.0)        62.4                                                           
+                                              100.0 (   769.0)        86.5                                                           
+                                              150.0 (   719.0)        95.4                                                           
+                                              200.0 (   669.0)       106.5                                                           
+                                              350.1 (   518.9)       179.4                                                           
+                                              380.0 (   489.0)       189.4                                                           
+                                              420.0 (   449.0)       209.4                                                           
+                                              460.0 (   409.0)       232.2                                                           
+                                              500.1 (   368.9)       252.4                                                           
+                                              540.0 (   329.0)       266.4                                                           
+                                              540.1 (   328.9)       268.5                                                           
+                                              580.0 (   289.0)       283.3                                                           
+                                              620.0 (   249.0)       295.4                                                           
+                                              660.0 (   209.0)       311.4                                                           
+                                              700.0 (   169.0)       321.9                                                           
+                                              720.0 (   149.0)       330.3                                                           
+                                              753.0 (   116.0)       343.4                                                           
+                                              788.0 (    81.0)       354.4                                                           
+                                              816.0 (    53.0)       362.1                                                           
+                                              850.0 (    19.0)       375.4                                                           
+                                              885.0 (   -16.0)       383.5                                                           
+                                              915.0 (   -46.0)       396.8                                                           
+                                              948.0 (   -79.0)       407.0                                                           
+                                              978.0 (  -109.0)       414.6                                                           
+                                             1000.0 (  -131.0)       422.4                                                           
+                                             1010.0 (  -141.0)       415.4                                                           
+                                             1045.0 (  -176.0)       435.3                                                           
+                                             1081.0 (  -212.0)       451.5                                                           
+                                             1115.0 (  -246.0)       462.0                                                           
+                                             1145.0 (  -276.0)       472.4                                                           
+                                             1175.0 (  -306.0)       482.3                                                           
+                                             1206.1 (  -337.1)       500.3                                                           
+                                             1245.0 (  -376.0)       510.2                                                           
+                                             1270.0 (  -401.0)       519.9                                                           
+                                             1301.0 (  -432.0)       531.3                                                           
+                                             1328.5 (  -459.5)       544.5                                                           
+                                             1367.0 (  -498.0)       558.5                                                           
+                                             1397.0 (  -528.0)       565.8                                                           
+                                             1430.0 (  -561.0)       578.9                                                           
+                                             1474.0 (  -605.0)       586.8                                                           
+                                             1500.1 (  -631.1)       595.4                                                           
+--------------------------------------                                          
+  PERFIS: REGISTRO DE AMOSTRA LATERAL                                                                                                
+--------------------------------------                                          
+ PERFIL CORRIDA DESC.  PROF.AMOSTRA    TIPO AMOSTRA  NUM.AMOSTRA FINALIDADE DA AMOSTRA      RECUPERACAO DA AMOSTRA  LITOTECA         
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: REGISTRO DE AMOSTRA LATERAL                                                                                                
+--------------------------------------                                          
+ PERFIL CORRIDA DESC.  PROF.AMOSTRA    TIPO AMOSTRA  NUM.AMOSTRA FINALIDADE DA AMOSTRA      RECUPERACAO DA AMOSTRA  LITOTECA         
+  281     02      A    1450.5( -581.5) INFO INEXISTENT   001     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1437.5( -568.5) INFO INEXISTENT   002     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1417.0( -548.0) INFO INEXISTENT   003     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1390.6( -521.6) INFO INEXISTENT   004     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1371.3( -502.3) INFO INEXISTENT   005     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1346.9( -477.9) INFO INEXISTENT   006     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1331.5( -462.5) INFO INEXISTENT   007     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1327.8( -458.8) INFO INEXISTENT   008     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1308.6( -439.6) INFO INEXISTENT   009     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A    1278.9( -409.9) INFO INEXISTENT   010     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     835.5(   33.5) INFO INEXISTENT   011     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     831.7(   37.3) INFO INEXISTENT   012     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     829.6(   39.4) INFO INEXISTENT   013     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     822.2(   46.8) INFO INEXISTENT   014     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     819.0(   50.0) INFO INEXISTENT   015     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     814.0(   55.0) INFO INEXISTENT   016     INFORMACAO NAO EXISTENTE   PERDIDA(NAO RECUPERADA) E&P/RIO          
+  281     02      A     812.5(   56.5) INFO INEXISTENT   017     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     811.0(   58.0) INFO INEXISTENT   018     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     774.0(   95.0) INFO INEXISTENT   019     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     772.5(   96.5) INFO INEXISTENT   020     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     768.0(  101.0) INFO INEXISTENT   021     INFORMACAO NAO EXISTENTE   PERDIDA(NAO RECUPERADA) E&P/RIO          
+  281     02      A     761.0(  108.0) INFO INEXISTENT   022     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     757.0(  112.0) INFO INEXISTENT   023     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     751.0(  118.0) INFO INEXISTENT   024     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     750.1(  118.9) INFO INEXISTENT   025     INFORMACAO NAO EXISTENTE   PERDIDA(NAO RECUPERADA) E&P/RIO          
+  281     02      A     742.5(  126.5) INFO INEXISTENT   026     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     740.5(  128.5) INFO INEXISTENT   027     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     734.0(  135.0) INFO INEXISTENT   028     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      A     724.5(  144.5) INFO INEXISTENT   029     INFORMACAO NAO EXISTENTE   DADO NAO REVISTO        E&P/RIO          
+  281     02      A     723.0(  146.0) INFO INEXISTENT   030     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1485.0( -616.0) INFO INEXISTENT   031     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1456.9( -587.9) INFO INEXISTENT   032     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1443.3( -574.3) INFO INEXISTENT   033     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1423.9( -554.9) INFO INEXISTENT   034     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1397.3( -528.3) INFO INEXISTENT   035     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1372.2( -503.2) INFO INEXISTENT   036     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1343.9( -474.9) INFO INEXISTENT   037     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1332.9( -463.9) INFO INEXISTENT   038     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1329.5( -460.5) INFO INEXISTENT   039     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1325.0( -456.0) INFO INEXISTENT   040     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1262.5( -393.5) INFO INEXISTENT   041     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B    1223.9( -354.9) INFO INEXISTENT   042     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B     981.0( -112.0) INFO INEXISTENT   043     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B     831.5(   37.5) INFO INEXISTENT   044     INFORMACAO NAO EXISTENTE   PERDIDA(NAO RECUPERADA) E&P/RIO          
+  281     02      B     820.5(   48.5) INFO INEXISTENT   045     INFORMACAO NAO EXISTENTE    PERDIDA (NAO DETONADA) E&P/RIO          
+                                                                                                                                     
+--------------------------------------                                          
+  PERFIS: REGISTRO DE AMOSTRA LATERAL                                                                                                
+--------------------------------------                                          
+ PERFIL CORRIDA DESC.  PROF.AMOSTRA    TIPO AMOSTRA  NUM.AMOSTRA FINALIDADE DA AMOSTRA      RECUPERACAO DA AMOSTRA  LITOTECA         
+  281     02      B     814.0(   55.0) INFO INEXISTENT   046     INFORMACAO NAO EXISTENTE   PERDIDA(NAO RECUPERADA) E&P/RIO          
+  281     02      B     785.1(   83.9) INFO INEXISTENT   047     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B     781.6(   87.4) INFO INEXISTENT   048     INFORMACAO NAO EXISTENTE    PERDIDA (NAO DETONADA) E&P/RIO          
+  281     02      B     778.8(   90.2) INFO INEXISTENT   049     INFORMACAO NAO EXISTENTE    PERDIDA (NAO DETONADA) E&P/RIO          
+  281     02      B     776.4(   92.6) INFO INEXISTENT   050     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B     775.5(   93.5) INFO INEXISTENT   051     INFORMACAO NAO EXISTENTE    PERDIDA (NAO DETONADA) E&P/RIO          
+  281     02      B     773.5(   95.5) INFO INEXISTENT   052     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+  281     02      B     767.9(  101.1) INFO INEXISTENT   053     INFORMACAO NAO EXISTENTE   INFO NAO EXISTENTE      E&P/RIO          
+--------------------------------------------                                    
+ LITOLOGIA - *** VALORES VERTICALIZADOS ***                                                                                          
+--------------------------------------------                                    
+  TOPO              BASE                ROCHA                 COR         TONALIDADE    GRANULOMETRIA   ARREDONDAMENTO               
+    5.0 (  864.0)     7.0 (  862.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                     12.0 (  857.0)  49 ARENITO               VERMELHO    ACASTANHADO   MUITO FINO                                   
+                     17.0 (  852.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                     25.0 (  844.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    238.0 (  631.0)  49 ARENITO               VERMELHO    CLARO         GROSSEIRO                                    
+                    258.0 (  611.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    261.0 (  608.0)  49 ARENITO               VERMELHO    CLARO         GROSSEIRO                                    
+                    266.0 (  603.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    270.0 (  599.0)  49 ARENITO               VERMELHO    CLARO         GROSSEIRO                                    
+                    295.0 (  574.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    306.0 (  563.0)  49 ARENITO               VERMELHO    CLARO         GROSSEIRO                                    
+                    323.0 (  546.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    326.0 (  543.0)  49 ARENITO               VERMELHO    CLARO         GROSSEIRO                                    
+                    330.0 (  539.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    335.0 (  534.0)  49 ARENITO               CREME       AVERMELHADO   GROSSEIRO                                    
+                    336.0 (  533.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    338.0 (  531.0)   8 CALCARENITO           CREME       ESBRANQUICADO                                              
+                    340.0 (  529.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    343.0 (  526.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    347.0 (  522.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    353.0 (  516.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    354.0 (  515.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    357.0 (  512.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    358.0 (  511.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    359.0 (  510.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    362.0 (  507.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    365.0 (  504.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    367.0 (  502.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    387.0 (  482.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    394.0 (  475.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    400.0 (  469.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    402.0 (  467.0)   8 CALCARENITO           CREME       ESBRANQUICADO                                              
+                    408.0 (  461.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    416.0 (  453.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    426.0 (  443.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    440.0 (  429.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    451.0 (  418.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    452.0 (  417.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    453.0 (  416.0)  92 CARVAO                PRETO                                                                  
+                    465.0 (  404.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    469.0 (  400.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    472.0 (  397.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    475.0 (  394.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    477.0 (  392.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    478.0 (  391.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    482.0 (  387.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    483.0 (  386.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    484.0 (  385.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    485.0 (  384.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    486.0 (  383.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    488.0 (  381.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    489.0 (  380.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    491.0 (  378.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    495.0 (  374.0)  54 SILTITO               CASTANHO    AVERMELHADO                                                
+                    498.0 (  371.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    510.0 (  359.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    514.0 (  355.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                    528.0 (  341.0)  49 ARENITO               CINZA       AVERMELHADO   MEDIO                                        
+                    530.0 (  339.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    534.0 (  335.0)  49 ARENITO               CINZA       AVERMELHADO   MEDIO                                        
+                    536.0 (  333.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    559.0 (  310.0)  49 ARENITO               CINZA       AVERMELHADO   MEDIO                                        
+                    579.0 (  290.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    641.0 (  228.0)  49 ARENITO               CASTANHO    CLARO         GROSSEIRO       SUBANGULAR                   
+                    644.0 (  225.0)  56 ARGILITO              CREME       ESBRANQUICADO                                              
+                    712.0 (  157.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    714.0 (  155.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    722.0 (  147.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    727.0 (  142.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    750.0 (  119.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    753.0 (  116.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                    756.0 (  113.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    757.0 (  112.0)  54 SILTITO               CINZA                                                                  
+                    776.0 (   93.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                    777.0 (   92.0)  54 SILTITO               CINZA                                                                  
+                    779.0 (   90.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    781.0 (   88.0)  54 SILTITO               CINZA                                                                  
+                    782.0 (   87.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    784.0 (   85.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                    785.0 (   84.0)  49 ARENITO               CINZA       CLARO         GROSSEIRO       SUBARREDONDADO               
+                    787.0 (   82.0)  54 SILTITO               CINZA                                                                  
+                    800.0 (   69.0)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                    801.0 (   68.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    804.0 (   65.0)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                    805.0 (   64.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    810.0 (   59.0)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                    815.0 (   54.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    818.0 (   51.0)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                    822.0 (   47.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    824.0 (   45.0)  54 SILTITO               CINZA                                                                  
+                    836.0 (   33.0)  49 ARENITO               CASTANHO    AVERMELHADO   FINO            SUBARREDONDADO               
+                    837.0 (   32.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    880.0 (  -11.0)  49 ARENITO               CINZA       ACASTANHADO   FINO            SUBARREDONDADO               
+                    881.0 (  -12.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    903.0 (  -34.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    904.0 (  -35.0)  54 SILTITO               CINZA                                                                  
+                    908.0 (  -39.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    909.0 (  -40.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    911.0 (  -42.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    912.0 (  -43.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    915.0 (  -46.0)  49 ARENITO               BRANCO                    MEDIO           SUBARREDONDADO               
+                    916.0 (  -47.0)  54 SILTITO               CINZA                                                                  
+                    980.0 ( -111.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                    984.0 ( -115.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    989.0 ( -120.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                    990.0 ( -121.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    992.0 ( -123.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                    993.0 ( -124.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                    994.0 ( -125.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                    995.0 ( -126.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1014.0 ( -145.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                   1015.0 ( -146.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1024.0 ( -155.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                   1029.0 ( -160.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1035.0 ( -166.0)  49 ARENITO               BRANCO                    FINO            SUBARREDONDADO               
+                   1042.0 ( -173.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1056.0 ( -187.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1058.0 ( -189.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1065.0 ( -196.0)  54 SILTITO               CINZA                                                                  
+                   1071.0 ( -202.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1073.0 ( -204.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1075.0 ( -206.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1076.0 ( -207.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1086.0 ( -217.0)  54 SILTITO               CINZA                                                                  
+                   1091.0 ( -222.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1092.0 ( -223.0)  54 SILTITO               CINZA                                                                  
+                   1118.0 ( -249.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1158.0 ( -289.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1309.0 ( -440.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1327.0 ( -458.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1333.0 ( -464.0)  57 FOLHELHO              CASTANHO    AVERMELHADO                                                
+                   1343.0 ( -474.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1346.0 ( -477.0)  54 SILTITO               CINZA                                                                  
+                   1348.0 ( -479.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1351.0 ( -482.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1353.0 ( -484.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1354.0 ( -485.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1357.0 ( -488.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1365.0 ( -496.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1367.0 ( -498.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1370.0 ( -501.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1372.0 ( -503.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1389.0 ( -520.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1391.0 ( -522.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1400.0 ( -531.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1403.0 ( -534.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1411.0 ( -542.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1412.0 ( -543.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1414.0 ( -545.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1416.0 ( -547.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1417.0 ( -548.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1421.0 ( -552.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1425.0 ( -556.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1428.0 ( -559.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1433.0 ( -564.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1436.0 ( -567.0)  54 SILTITO               CINZA                                                                  
+                   1439.0 ( -570.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1441.0 ( -572.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1443.0 ( -574.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1445.0 ( -576.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1450.0 ( -581.0)  49 ARENITO               CINZA       ESBRANQUICADO FINO            SUBARREDONDADO               
+                   1452.0 ( -583.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1454.0 ( -585.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1455.0 ( -586.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1456.0 ( -587.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1458.0 ( -589.0)  57 FOLHELHO              CINZA       ESCURO                                                     
+                   1464.0 ( -595.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1466.0 ( -597.0)  56 ARGILITO              CASTANHO    AVERMELHADO                                                
+                   1472.0 ( -603.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1474.0 ( -605.0)  54 SILTITO               CINZA                                                                  
+                   1476.0 ( -607.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1478.0 ( -609.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                   1484.0 ( -615.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBARREDONDADO               
+                   1485.0 ( -616.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                   1494.0 ( -625.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBANGULAR                   
+                   1496.0 ( -627.0)  57 FOLHELHO              CASTANHO    ESCURO                                                     
+                   1499.0 ( -630.0)  49 ARENITO               BRANCO                    GROSSEIRO       SUBANGULAR                   
+                   1520.5 ( -651.5)  64 IGNEA NAO IDENT.      CINZA       ESCURO                                                     
+  RESUMO DAS ROCHAS ENCONTRADAS NO POCO -                                                                                            
+   8  CALCARENITO      =     4.0 M       .26 %                                                                                       
+  49  ARENITO          =   793.0 M     52.33 %                                                                                       
+  54  SILTITO          =    81.0 M      5.34 %                                                                                       
+  56  ARGILITO         =   273.0 M     18.01 %                                                                                       
+  57  FOLHELHO         =   342.0 M     22.57 %                                                                                       
+  64  IGNEA NAO IDENT. =    21.5 M      1.42 %                                                                                       
+  92  CARVAO           =     1.0 M       .07 %                                                                                       

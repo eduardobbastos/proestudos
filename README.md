@@ -1,12 +1,12 @@
 # ProEstudos
 
-## Projeto de IA com Gemini: REATE 2020 e a Transição Energética
+## Projeto de IA com Gemini: REATE  e a Transição Energética
 
 **Compartilhando meu projeto da #imersao-ia-alura-google! 🚀**
 
 A íedeia deste projeto que utiliza a inteligência artificial do Gemini, do Google, para analisar dados e gerar insights valiosos para o REATE , um programa estratégico do Ministério de Minas e Energia focado na exploração e produção de petróleo e gás natural em áreas terrestres do Brasil. 
 
-**Conectando o REATE 2020 com a Transição Energética**
+**Conectando o REATE  com a Transição Energética**
 
 Embora o REATE se concentre em recursos fósseis, é importante destacar sua relevância no contexto da transição energética. O programa pode contribuir para esse processo de diversas maneiras:
 
@@ -17,7 +17,7 @@ Embora o REATE se concentre em recursos fósseis, é importante destacar sua rel
 
 **O que é o REATE ?**
 
-O REATE 2020 busca revitalizar a exploração e produção de petróleo e gás natural em áreas terrestres do Brasil. O programa visa estimular o desenvolvimento regional, aumentar a competitividade da indústria nacional e fomentar o aproveitamento de recursos em reservatórios de baixa permeabilidade.
+O REATE busca revitalizar a exploração e produção de petróleo e gás natural em áreas terrestres do Brasil. O programa visa estimular o desenvolvimento regional, aumentar a competitividade da indústria nacional e fomentar o aproveitamento de recursos em reservatórios de baixa permeabilidade.
 
 **Por que isso é importante?**
 
@@ -38,12 +38,14 @@ Utilizando o Gemini, estou desenvolvendo um sistema de análise inteligente para
 
 **Acompanhe o desenvolvimento!**
 
-Acredito que este projeto pode contribuir para o sucesso do REATE 2020 e para uma transição energética justa e eficiente no Brasil. Siga-me para acompanhar as atualizações e compartilhar suas perspectivas! 
+Acredito que este projeto pode contribuir para o sucesso do REATE e para uma transição energética justa e eficiente no Brasil. Siga-me para acompanhar as atualizações e compartilhar suas perspectivas! 
 
 **#imersao-ia-alura-google @AluraOnline @GoogleBrasil** 
 
-**Vamos juntos explorar o potencial do REATE 2020 e construir um futuro energético sustentável! 🌿🌎**
+**Vamos juntos explorar o potencial do REATE e construir um futuro energético sustentável! 🌿🌎**
 
-[Sobre REATE](https://www.gov.br/mme/pt-br/assuntos/secretarias/petroleo-gas-natural-e-biocombustiveis/reate-2020)
 
-Baixar dados do REATE aqui: [https://reate.cprm.gov.br/anp/TERRESTRE](https://reate.cprm.gov.br/anp/TERRESTRE)
+**Links
+- Sobre REATE: [aqui!](https://www.gov.br/mme/pt-br/assuntos/secretarias/petroleo-gas-natural-e-biocombustiveis/reate-)
+
+- Baixar dados do REATE aqui!: [https://reate.cprm.gov.br/anp/TERRESTRE](https://reate.cprm.gov.br/anp/TERRESTRE)

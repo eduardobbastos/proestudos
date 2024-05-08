@@ -1,0 +1,29 @@
+ POCO           :   4BO  0001  PE       
+                                                                                                                                     
+ IDENTIFICADOR  :   SB24T24SE51J30C                         BACIA          :   PERNAMBUCO-PB(T)                                      
+ CAMPO          :                                           DATUM          :   ARATU                                                 
+ LATITUDE       :    -7.44097 (   -7  26 27.5)              LONGITUDE      :   -40.10249 (  -40   6  9.0)                            
+ MERID.CENTRAL  :   - 39                                    COORD.UTM FUNDO:    9177342.1S  378335.1W                                
+ DISTRITO       :   E&P-RN/CE                               ESTADO         :   PE                                                    
+ MUNICIPIO      :   BODOCO                                  CODIGO POCO    :   017382                                                
+ QUADRICULA     :   33917737                                MESA ROTATIVA  :    808.0                                                
+ B.A.P          :     804.1                                 P.F.SONDADOR   :    933.0                                                
+ PROF.MX.PERF.  :    931.0                                  METROS PERF.   :    933.0                                                
+ MAIOR PROF.    :    933.0                                  INICIO         :   06/10/94                                              
+ TERMINO        :   23/11/94                                DATA LIB.SONDA :                                                         
+ ULT.RECLASSIF. :   30/12/94                                ULT.RECLASSIF. :   LOCACAO                                               
+ SITUACAO LOC.  :   CONCLUIDO                               DATA APROV.LOC :   09/11/94                                              
+ CADASTRO       :   04683                                   SEDOC          :                                                         
+ SONDA          :   CPRM                                    FORMACAO P.F.  :     EMBASA                                              
+ TERRA / MAR    :   TERRA                                   ACS RISCO      :                                                         
+ CONTR. RISCO   :                                           DOC.APROV.LOC. :   DEPEX/CPRM/1994                                       
+ NOME           :   BODOCO.1                                CLASSIFICACAO  :   PIONEIRO ADJACENTE                                    
+ RECLASSIFICACAO:   ESPECIAL - PRODUTOR DE AGUA.                                                                                     
+ MC C.UTM BASE  :   - 39                                    COORD.UTM BASE :     9177342.1S    378335.1W                             
+ DADOS  LOCACAO :                                                                                                                    
+ MC LOCACAO     :   - 39                                    COORD.UTM LOC. :     9177342.1S   378335.1W                              
+ DATUM LOCACAO  :   ARATU                                   EMPR. OPER.1/2 :    CPRM                                                 
+ DIRECIONAL?    :   VERTICAL                                                                                                         
+ HISTORICO DA RECLASSIFICACAO -      23/11/94   -  INDEFINIDO.                                           - SITUACAO ATUAL            
+                                     30/12/94   -  ESPECIAL - PRODUTOR DE AGUA.                          - RECLASSIFICACAO           
+ * POCO 4BO  0001  PE  -NAO FOI LEVANTADO REGISTRO DE PERFIS (30) -                                                                  
